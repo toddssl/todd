@@ -1,1 +1,7 @@
-console.log(hi);
+$(function () {
+  
+  function test() {
+    console.log('hi');    
+  }
+});
+
